@@ -1,0 +1,6 @@
+{
+  "name": "Scan Pro AI",
+  "description": "Convert, Scan & Enhance Documents Instantly with AI-powered scanning tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
